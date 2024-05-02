@@ -7,7 +7,7 @@ I completed the Java developer course at ezen Computer Academy.<br />
 However, I was very interested in other languages, so I taught myself several languages, including Java, nodejs, react, and php.<br />
 I will become a developer who always works hard.
 
-<img align="right" alt="GIF" src="https://musicart.co.kr/img/banner02.jpg" width="432" height="244" />
+<img align="right" alt="GIF" src="https://musicart.co.kr/img/banner02.png" width="432" height="244" />
 
 - 🔭 I’m currently working on Frontend Web Development & Android Development.
 - 🌱 I’m currently learning Backend Development.
